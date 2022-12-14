@@ -20,7 +20,7 @@ const FormTodo = (props) => {
   return (
     <form onSubmit={handleSubmit}>
       <div className="todo-list">
-        <div className="input">
+        <div className="file-input">
           <input
             type="text"
             className="text"
